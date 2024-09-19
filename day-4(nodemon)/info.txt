@@ -1,0 +1,3 @@
+1. install nodemon to run the file whenener the chnages done
+
+npm i nodemon -g

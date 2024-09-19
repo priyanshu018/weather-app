@@ -1,0 +1,2 @@
+1. npm init
+2.install the validator package from npmjs.com https://www.npmjs.com/package/validator
